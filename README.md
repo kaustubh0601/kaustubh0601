@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Kumbharkar</h1>
-<h3 align="center">A passionate MERN Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubh0601" alt="kaustubh0601" /></a> </p>
+
 <div>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
