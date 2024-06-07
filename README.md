@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1Yyx_LED7ygUNxQqgghShperz4tvmY4u9/view?usp=drivesdk](https://drive.google.com/file/d/1Yyx_LED7ygUNxQqgghShperz4tvmY4u9/view?usp=drivesdk)
 
-- 💬 Ask me about **HTML, CSS, JS, React, Tailwind etc.**
+- 💬 Ask me about **C++, HTML, CSS, JS, React, Tailwind etc.**
 
 - 📫 How to reach me **kaustubhkumbharkar0601@gmail.com**
 
