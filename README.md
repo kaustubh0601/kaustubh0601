@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kaustubhkumbharkar0601@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16hpMCSY_3N2wME8It4BMv9pVS4iElROo/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ll4ehB_Bh12VnY3W7OBWpM07TnQYqRrr/view?usp=sharing)
 
 </div>
 
