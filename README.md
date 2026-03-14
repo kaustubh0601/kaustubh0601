@@ -5,8 +5,6 @@
 
 <div>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  
-- 🔭 I’m currently working on [building an e-commerce web application.](https://shopping-web-seven.vercel.app/)
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
@@ -14,7 +12,7 @@
 
 - 📫 How to reach me **kaustubhkumbharkar0601@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ll4ehB_Bh12VnY3W7OBWpM07TnQYqRrr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x0nUzC_dkesUnUMaGl4v_P6OJNMVlWo_/view?usp=sharing)
 
 </div>
 
